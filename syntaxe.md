@@ -11,6 +11,8 @@
 * __***italique gras souligné***__ = `__***italique gras souligné***__` 
 * [lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`
 ![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png) 
-* => `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
+
+
+* Insertion d'images: `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas.
 ----------------- 
