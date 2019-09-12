@@ -26,17 +26,18 @@
 
 -----------------------
 
-* <h2> Navigation dans des fichiers.md <a name="Nav"></a> :</h2>
+## Navigation dans des fichiers.md <a name="Nav"></a> :</h2>
 
 Markdown donne la possibilitée de navigué à l'intérieur d'un fichier .md ainsi qu'entre plusieurs fichier .md
 
- * <h3> Navigation dans un même fichier: </h3>
+  * Navigation dans un même fichier:
  Pour naviguer au seins d'un même fichier, ce qui est pratique lorsque l'on veut faire une table des matières pas exemple.
- Si je veux faire pointer un lien en haut de mon texte vers une partie en aval il me sufit d'indentifier cette partie comme ceci:
- `## Mon premier paragraphe <a name="premierpara"></a>`. Ensuite de pointer cette identifiant de la même manière que si l'on pointait un     lien : `1. [Lien vers mon premier paragraphe](#premierpara)`.
-  * <h3> Navigation entre plusieurs fichiers: </h3>
-  Pour faire un lien pointant vers un autre fichier .md, rien de plus simple, c'est un peu comme en HTML. Si il provient d'un autre         utilisateur github, ou d'un fichier dans un autre dépot, il sufit simplement de pointer vers son URL. 
-  Si c'est un fichier ou un sous dossier qui est dans le même dépot, c'est toujours similaire au HTML:    `[texte du lien](Nom du           dossier/fichier.md)` ou `[texte du lien](fichier.md)`.
+Si je veux faire pointer un lien en haut de mon texte vers une partie en aval il me sufit d'indentifier cette partie comme ceci:
+`## Mon premier paragraphe <a name="premierpara"></a>`. Ensuite de pointer cette identifiant de la même manière que si l'on pointait un    lien : `1. [Lien vers mon premier paragraphe](#premierpara)`.
+
+  * Navigation entre plusieurs fichiers:
+Pour faire un lien pointant vers un autre fichier .md, rien de plus simple, c'est un peu comme en HTML. Si il provient d'un autre         utilisateur github, ou d'un fichier dans un autre dépot, il sufit simplement de pointer vers son URL. 
+Si c'est un fichier ou un sous dossier qui est dans le même dépot, c'est toujours similaire au HTML:    `[texte du lien](Nom du           dossier/fichier.md)` ou `[texte du lien](fichier.md)`.
 
 ----------------- 
 ## Index:
