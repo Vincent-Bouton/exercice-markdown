@@ -1,5 +1,11 @@
 # La syntaxe en Markdown
-## Modification du texte:
+
+## Table des matières:
+* [Modification du texte](#Modif)
+* [Insérer des liens et des images](#liens)
+* [Navigation dans des fichiers.md](#Nav)
+
+## Modification du texte <a name="Modif"></a>:
 
 * *italique* = `*italique*` 
 * **gras** = `**gras**` 
@@ -13,17 +19,17 @@
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas :
 ----------------- 
 
-## Insérer des liens et des images:
+## Insérer des liens et des images <a name="liens"></a>:
 
 ![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png) 
 
 
 * Insertion d'images: `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
-* [lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`
+* [lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `[lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`. C'est comme pour les images mais sans le "!".
 
 -----------------------
 
-## __Les liens__
+## Navigation dans des fichiers.md <a name="Nav"></a> :
 
 Markdown donne la possibilitée de navigué à l'intérieur d'un fichier .md ainsi qu'entre plusieurs fichier .md
 
