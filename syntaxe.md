@@ -2,7 +2,7 @@
 ## __Markdown__
 
 * *italique* = * italique * (colé)
-* **gras** = *'*gras*'* (sans l'apostrophe)
+* **gras** = `**gras**` (sans l'apostrophe)
 * ***italique gras*** = *'*'*italique gras*'** (sans l'apostrophe)
 * b̶a̶r̶r̶é̶ = ~ ~ barré ~ ~ (tout colé)
 * __souligné__ = _'_souligné__ (sans l'apostrophe)
