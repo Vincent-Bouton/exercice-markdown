@@ -18,4 +18,4 @@
 * Insertion d'images: `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas.
 ----------------- 
-* Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`
+* Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`. Voici une [liste](https://gist.github.com/rxaviers/7360908) des emojis présents en markdown sir github et il y en a un paquet :exclamation:
