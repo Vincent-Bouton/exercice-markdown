@@ -18,3 +18,4 @@
 * Insertion d'images: `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas.
 ----------------- 
+* Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`
