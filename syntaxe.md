@@ -11,10 +11,10 @@
 * **Gras** = `**gras**` 
 * ***Italique gras*** = `***italique gras***` 
 * Ba̶r̶r̶é̶ = `~~barré~~` 
-* __Souligné__ = `___souligné___` 
-* ___*Italique souligné*___ = `__*italique souligné*__` 
-* ___**Gras souligné**___ = `__**gras souligné**__` 
-* ___***Italique gras souligné***___ = `__***italique gras souligné***__` 
+* ___Souligné___ = `___souligné___` 
+* ____*Italique souligné*___ = `__*italique souligné*__` 
+* ____**Gras souligné**____ = `__**gras souligné**__` 
+* ____***Italique gras souligné***____ = `__***italique gras souligné***__` 
 * Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`. Voici une [liste](https://gist.github.com/rxaviers/7360908) des emojis présents en markdown sur github et il y en a un paquet :exclamation:
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas :
 ----------------- 
