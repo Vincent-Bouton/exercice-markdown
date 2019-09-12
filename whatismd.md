@@ -18,4 +18,5 @@ On souhaite mettre en évidence une information importante en la mettant en gras
 ## 4. Index
 
 
-["Main Page"](https://github.com/Vincent-bouton/exercice-markdown/blob/master/README.md)
+* [Main Page](https://github.com/Vincent-bouton/exercice-markdown/blob/master/README.md)
+* [Syntaxe](https://github.com/Vincent-bouton/exercice-markdown/blob/master/syntaxe.md#Nav)
