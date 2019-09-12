@@ -12,4 +12,5 @@ Le langage Markdown permet de rédiger dans un document HTML de façon plus rapi
 
 Le langage a été pensé afin d'être facile à écrire mais aussi facile à lire. 
 
-*Par exemple*: on souhaite mettre en évidence une information importante en la mettant en gras. Avec les balises HTML on encadrerait l'information importante avec la balise suivante: <em> </em>. Tandis qu'avec le Markdown, on encadre l'information importante par deux ** de part et d'autre.
+3. ## Comment ça marche?
+On souhaite mettre en évidence une information importante en la mettant en gras. Avec les balises HTML on encadrerait l'information importante avec la balise suivante: ![BalisesHtml](baliseshtml.png). Tandis qu'avec le Markdown, on encadre l'information importante par deux ** de part et d'autre.
