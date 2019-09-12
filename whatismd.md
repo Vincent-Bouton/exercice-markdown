@@ -15,4 +15,7 @@ Le langage a été pensé afin d'être facile à écrire mais aussi facile à li
 ## 3. Comment ça marche?
 On souhaite mettre en évidence une information importante en la mettant en gras. Avec les balises HTML on encadrerait l'information importante avec la balise suivante: `<strong>l'information importante</strong>` (sans les espaces dans les balises). Tandis qu'avec le Markdown, on encadre l'information importante par deux `**l'information importante**` de part et d'autre du mot ou de la phrase que l'on veut mettre en gras. 
 
+## 4. Index
 
+
+[MainPage](https://github.com/Vincent-bouton/exercice-markdown/blob/master/README.md)
