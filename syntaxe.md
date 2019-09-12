@@ -26,4 +26,4 @@
 Markdown donne la possibilitée de navigué à l'intérieur d'un fichier .md ainsi qu'entre plusieurs fichier .md
 
 1. Navigation dans un même fichier :
-2. Navigation entre plusieurs fichiers:
+2. Navigation entre plusieurs fichiers: k
