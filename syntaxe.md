@@ -1,6 +1,5 @@
-# exercice-markdown
-## __Syntaxe Markdown__
-
+# La syntaxe en Markdown
+## Modification du texte:
 
 * *italique* = `*italique*` 
 * **gras** = `**gras**` 
@@ -10,17 +9,20 @@
 * __*italique souligné*__ = `__*italique souligné*__` 
 * __**gras souligné**__ = `__**gras souligné**__` 
 * __***italique gras souligné***__ = `__***italique gras souligné***__` 
-* [lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`
+* Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`. Voici une [liste](https://gist.github.com/rxaviers/7360908) des emojis présents en markdown sur github et il y en a un paquet :exclamation:
+* Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas :
+----------------- 
 
-----------------------
+## Insérer des liens et des images:
+
 ![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png) 
 
 
 * Insertion d'images: `![Logo Beode](https://www.becode.org/register/assets/images/logo_Becode.png`
-* Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas :
------------------ 
-* Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`. Voici une [liste](https://gist.github.com/rxaviers/7360908) des emojis présents en markdown sur github et il y en a un paquet :exclamation:
------------------
+* [lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`
+
+-----------------------
+
 ## __Les liens__
 
 Markdown donne la possibilitée de navigué à l'intérieur d'un fichier .md ainsi qu'entre plusieurs fichier .md
