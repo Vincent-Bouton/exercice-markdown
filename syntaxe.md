@@ -1,5 +1,6 @@
 # exercice-markdown
-## __Markdown__
+## __ Syntaxe Markdown__
+
 
 * *italique* = `*italique*` 
 * **gras** = `**gras**` 
@@ -19,3 +20,10 @@
 * Le barres de séparation : `-----------------` Il faut mettre minimum 3 tirets, astérisques, ou barre en bas.
 ----------------- 
 * Insertion d'emoji :+1: : `:nom de l'emoji:` dans ce cas-ci `:+1:`. Voici une [liste](https://gist.github.com/rxaviers/7360908) des emojis présents en markdown sur github et il y en a un paquet :exclamation:
+-----------------
+## __Les liens__
+
+Markdown donne la possibilitée de navigué à l'intérieur d'un fichier .md ainsi qu'entre plusieurs fichier .md
+
+1. Navigation dans un même fichier :
+2. Navigation entre plusieurs fichiers:
