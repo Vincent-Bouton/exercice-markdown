@@ -40,6 +40,7 @@ Si je veux faire pointer un lien en haut de mon texte vers une partie en aval il
 ### 2. Navigation entre plusieurs fichiers: 
 Pour faire un lien pointant vers un autre fichier .md, rien de plus simple, c'est un peu comme en HTML. Si il provient d'un autre utilisateur github, ou d'un fichier dans un autre dépot, il sufit simplement de pointer vers son URL. 
 Si c'est un fichier ou un sous dossier qui est dans le même dépot, c'est toujours similaire au HTML: `[texte du lien](Nom du dossier/fichier.md)` ou `[texte du lien](fichier.md)`.
+
 ----------------- 
 ## Index:
 1. [Présentation du projet](README.md)
