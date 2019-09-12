@@ -1,5 +1,5 @@
 # Ecrire en Markdown, ça veut dire quoi?
-
+![Dev](https://www.pexels.com/photo/apple-code-coding-computer-574069/)
 ## 1. Histoire du Markdown 
 
 Le Markdown est un langage de balisage créé par **John Gruber** et **Aaron Schwartz** en 2004. Le langage n'a pas beaucoup évolué depuis sa création.
@@ -15,4 +15,4 @@ Le langage a été pensé afin d'être facile à écrire mais aussi facile à li
 ## 3. Comment ça marche?
 On souhaite mettre en évidence une information importante en la mettant en gras. Avec les balises HTML on encadrerait l'information importante avec la balise suivante: < em >l'information importante< /em > (sans les espaces dans les balises). Tandis qu'avec le Markdown, on encadre l'information importante par deux ** l'information importante ** de part et d'autre du mot ou de la phrase que l'on veut mettre en gras. 
 
-*Essai de modification*
+
