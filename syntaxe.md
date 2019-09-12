@@ -9,4 +9,4 @@
 * __*italique souligné*__ = `__*italique souligné*__` 
 * __**gras souligné**__ = `__**gras souligné**__` 
 * __***italique gras souligné***__ = `__***italique gras souligné***__` 
-* ![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
+* ![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) : `![lien source openclasseroom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)`
