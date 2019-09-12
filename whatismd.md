@@ -1,5 +1,7 @@
 # Ecrire en Markdown, ça veut dire quoi?
+
 ![Dev](https://www.pexels.com/photo/apple-code-coding-computer-574069/)
+
 ## 1. Histoire du Markdown 
 
 Le Markdown est un langage de balisage créé par **John Gruber** et **Aaron Schwartz** en 2004. Le langage n'a pas beaucoup évolué depuis sa création.
